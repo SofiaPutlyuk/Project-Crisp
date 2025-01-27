@@ -1,0 +1,25 @@
+.header-crisp{
+    background-color: $blackColor;
+    width:320px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+    gap:50px;
+}
+.dash {
+    width:20px;
+    height: 3px;
+    background-color: $whiteColor;
+}
+.hamburger-container {
+    display: flex;
+    flex-direction: column;
+    gap:7px;
+    justify-content: center;
+}
+.search-icon {
+    width:100px;
+    height: 100px;
+}
